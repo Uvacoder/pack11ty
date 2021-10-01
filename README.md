@@ -1,5 +1,5 @@
 # Pack11ty
---
+
 Pack11ty is an heavily opinionated [Eleventy](https://www.11ty.dev/) template project created by [Nicolas Hoizey](https://nicolas-hoizey.com/).
 
 **WARNING: This is Work In Progress, not ready for production!**
